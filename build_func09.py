@@ -1,6 +1,6 @@
 def main(x,y):
     """
-    Given a variables called 'x' and 'y' type of int , calculate the value of expression and return result:
+    Given a arguments called 'x' and 'y' type of int , calculate the value of expression and return result:
     Args:
         x: int
         y: int

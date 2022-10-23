@@ -2,7 +2,7 @@
 
 ## build_func01
 
-Given a variable called 'n' type of int , return its absolute value
+Given a argument called 'n' type of int , return its absolute value
 
 **Input**:*number*.\
 **Output**: *answer*.
