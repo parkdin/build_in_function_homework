@@ -6,7 +6,4 @@ def main(n):
     Returns:
         result : float
     """
-    x = 3 * (( n + 1) ** 2 )
-    return x
-
-print(main(3.5))
+    return 3 * (( n + 1) ** 2 )
