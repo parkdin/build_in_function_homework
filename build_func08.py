@@ -7,4 +7,7 @@ def main(x,y):
     Returns:
         result : int
     """
-    return 
+    z = 5 * x ** 2 * y ** 3 + x * y ** 2
+    return z
+
+print(main(7,1))
