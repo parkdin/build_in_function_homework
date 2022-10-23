@@ -9,5 +9,4 @@ def main(x,y):
     """
     return 2 * ( y ** 3 + x ** 2 * y)
     
-print(main(2,4))
 
