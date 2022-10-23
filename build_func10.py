@@ -7,5 +7,6 @@ def main(x,y):
     Returns:
         result : float
     """
-    return 
+    return 3 * y ** 0.5 + x ** (2/3) 
 
+print(main(8,4))
