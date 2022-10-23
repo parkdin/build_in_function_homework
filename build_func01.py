@@ -6,7 +6,4 @@ def main(n):
     Returns:
         absolute value: int
     """
-    n = n - n*2
-    return n
-
-print(main(-5))
+    return n - n*2
