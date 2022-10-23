@@ -7,6 +7,5 @@ def main(n,x):
     Returns:
         result : int
     """
-    y = x ** n + n ** x
-    return y
-print(main(3, 6))
+    return x ** n + n ** x
+    
